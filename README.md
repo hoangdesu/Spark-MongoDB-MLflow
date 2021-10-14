@@ -26,6 +26,7 @@ This pipeline can be found in the notebook `hoang.ipynb`, consisting of the foll
 * You can shoot me an [email](mailto:hoangdesu@gmail.com) too!
 
 If you find this project useful, you can let me know. I would love to hear about it! 🍣
+
 Notes: the model training with MLflow is incomplete.
 
 
