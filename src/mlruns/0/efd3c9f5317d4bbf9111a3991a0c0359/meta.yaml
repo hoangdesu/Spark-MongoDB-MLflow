@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/doroke/CLOUDY/Courses/Big%20Data/Assignments/Assignment%202%20-%20MongoDB%20%2B%20Spark/s3697305_Assignment2/mlruns/0/efd3c9f5317d4bbf9111a3991a0c0359/artifacts
+end_time: 1630254783173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: efd3c9f5317d4bbf9111a3991a0c0359
+run_uuid: efd3c9f5317d4bbf9111a3991a0c0359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1630254783153
+status: 4
+tags: []
+user_id: doroke
