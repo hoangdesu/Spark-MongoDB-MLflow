@@ -19,7 +19,7 @@ This pipeline can be found in the notebook `hoang.ipynb`, consisting of the foll
 
 <a name="connect"></a>
 # Connect with me
-* My [Website](https://hoangdesu.com/)
+* My [website](https://hoangdesu.com/)
 * My [LinkedIn](https://www.linkedin.com/in/hoangdesu/)
 * My [Facebook](https://www.facebook.com/Hoangdayo/)
 * My [Instagram](https://www.instagram.com/hoang.desu/)
